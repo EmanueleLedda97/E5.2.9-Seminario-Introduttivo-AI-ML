@@ -1,5 +1,5 @@
-# Seminario Introduttivo AI/ML (E5.2.9) :robot:
-In questo repository verrà aggiunto progressivamente il materiale riguardante il seminario introduttivo sull'Intelligenza Artificiale e il Machine Learning (E5.2.9) svolto nell'ambito del progetto Cagliari Digital Lab 2024.
+# Seminario Introduttivo AI/ML :robot:
+In questo repository verrà aggiunto progressivamente il materiale riguardante il seminario introduttivo sull'Intelligenza Artificiale e il Machine Learning svolto nell'ambito del progetto Cagliari Digital Lab 2024.
 
 ## Descrizione del seminario :clipboard:
 Questo seminario fornirà una panoramica delle diverse tecnologie che fanno capo al settore di ricerca dell’Intelligenza Artificiale e dei loro ambiti applicativi, con un approfondimento sulle tecnologie del Machine Learning, orientata a mostrare, attraverso la discussione intorno ad alcuni concetti chiave dell’IA, come una innovazione di processo basata su tali tecnologie possa essere vantaggiosa per le attività di un'azienda o della PA.
