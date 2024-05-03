@@ -9,6 +9,8 @@ Il pubblico target saranno studenti di dottorato, start-up, PMI, partner del CDL
 I partecipanti necessiteranno di un PC personale.
 
 ## Calendario degli incontri :date:
+La sede degli incontri è stituata nella Facoltà di Ingegneria e Architettura, complesso di Piazza d'Armi. 
+
 --- | Data | Ora | Argomento | Aula | Edificio
 --- | --- | --- | --- | --- | --- 
 Giorno 1 | 08/05/2024 | 9:00 - 11:00 | Introduzione AI/ML pt. 1  | aula IAI_2D (ex Q) | Edificio I
@@ -17,6 +19,8 @@ Giorno 2 | 09/05/2024 | 9:00 - 13:00 | Shallow Learning  | aula IAI_2B (ex ST) |
 Giorno 3| 10/05/2024 | 9:00 - 13:00 | Deep Learning  | aula IAB_TC (ex C) | Edificio B
 Giorno 4 | 13/05/2024 | 9:00 - 13:00 | Nuove Frontiere dell'AI  | aula IAI_1H (ex G) | Edificio I
 Giorno 5 | 14/05/2024 | 9:00 - 13:00 | Aspetti Etici e Normativi | aula IAI_1A (ex P) | Edificio I
+
+Planimetria delle aulee consultabile al [Seguente Link](https://web.unica.it/unica/it/fac_ingarch_s1_ss1_sss3.page)
 
 ## Argomenti trattati durante le varie giornate
 📌 **Giorno 1 - Introduzione a Intelligenza Artificiale e Machine Learning**  
