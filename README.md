@@ -9,13 +9,36 @@ Il pubblico target saranno studenti di dottorato, start-up, PMI, partner del CDL
 I partecipanti necessiteranno di un PC personale.
 
 ## Calendario degli incontri :date:
---- | Data | Ora | Aula | Argomento 
---- | --- | --- | --- |--- 
-Giorno 1 | 08/05/2024 | 9:00 - 13:00 | Da definire | Introduzione AI/ML 
-Giorno 2 | 09/05/2024 | 9:00 - 13:00 | Da definire | Shallow Learning 
-Giorno 3| 10/05/2024 | 9:00 - 13:00 | Da definire | Deep Learning 
-Giorno 4 | 13/05/2024 | 9:00 - 13:00 | Da definire | Nuove Frontiere dell'AI 
-Giorno 5 | 14/05/2024 | 9:00 - 13:00 | Da definire | Aspetti Etici e Normativi 
+--- | Data | Ora | Argomento | Aula | Edificio
+--- | --- | --- | --- | --- | --- 
+Giorno 1 | 08/05/2024 | 9:00 - 11:00 | Introduzione AI/ML pt. 1  | aula IAI_2D (ex Q) | Edificio I
+Giorno 1 | 08/05/2024 | 11:00 - 13:00 | Introduzione AI/ML pt. 2 | aula IAI_TA (ex CD) | Edificio I
+Giorno 2 | 09/05/2024 | 9:00 - 13:00 | Shallow Learning  | aula IAI_2B (ex ST) | Edificio I
+Giorno 3| 10/05/2024 | 9:00 - 13:00 | Deep Learning  | aula IAB_TC (ex C) | Edificio B
+Giorno 4 | 13/05/2024 | 9:00 - 13:00 | Nuove Frontiere dell'AI  | aula IAI_1H (ex G) | Edificio I
+Giorno 5 | 14/05/2024 | 9:00 - 13:00 | Aspetti Etici e Normativi | aula IAI_1A (ex P) | Edificio I
+
+## Argomenti trattati durante le varie giornate
+📌 **Giorno 1 - Introduzione a Intelligenza Artificiale e Machine Learning**  
+La prima giornata offrirà una panoramica sull'intelligenza artificiale, mostrando la sua evoluzione dagli anni 50 ad oggi, analizzando le caratteristiche che hanno permesso all'intelligenza artificiale di diventare lo strumento che conosciamo oggi.
+Verranno poi spiegati i concetti alla base del machine learning, inclusi i più noti task e paradigmi di apprendimento.
+
+📌 **Giorno 2 - Shallow Learning**  
+In questa giornata verranno trattate nel dettaglio le principali tecniche di shallow learning, con particolare focus sui problemi supervisionati di classificazione e regressione, e clustering come problema non supervisionato.
+Nel dettaglio, verranno trattati alberi decisionali, naive bayes, knn, support vector machines e algoritmo k-means.
+Nelle ultime ore dell'incontro odierno è prevista l'implementazione di algoritmi di classificazione tramite l'utilizzo della libreria scikit-learn, in ambiente python.
+
+📌 **Giorno 3 - Deep Learning**  
+In questa giornata verranno approfonditi gli elementi fondamentali del deep learning, dalle basi del modello McCulloc Pitts fino alle più moderne soluzioni odierne.
+In primis, verranno trattati gli sturmenti matematici basilari come il percettrone e l'algoritmo di back-propagation; successivamente, verranno approfondite le principali tecniche di regolarizzazione, e le strategie per la costruzione di Reti Neurali Convoluzionali (CNNs) e Ricorrenti (RNNs), con riferimenti a task reali di classificazione, object detection, semantic segmentation e machine translation.
+
+📌 **Giorno 4 - Nuove Frontiere dell'AI**  
+Nella quarta giornata verranno introdotti i concetti fondamentali che stanno alla base delle più recenti innovazioni nel campo del deep learning.
+Verrà discusso il funzionamento dei modelli generativi tra cui Generative Adversarial Networks (GANs) e Diffusion Models, verrà approfondito il meccanismo di Attention alla base delle reti di tipo Transformer, e verrà approfondito il paradigma di self-supervised learning, alla base dei principali foundation models odierni tra cui ChatGPT e Sora.
+
+📌 **Giorno 5 - Aspetti Etici e Normativi**  
+Nell'ultimo incontro verranno discussi gli aspetti etici e normativi relativi all'intelligenza artificiale moderna. Si discuterà dei requisiti etici per l'AI affidabile emanati dell'unione europea (2019), dell'AI Act e delle regolamentazioni GDPR sull'uso dei dati per l'AI.
+Verranno infine delineati alcuni degli emergenti campi di ricerca (uncertainty quantification, adversarial machine learning ed explainable AI) che mirano alla costruzione di Intelligenza Artificiale etica e affidabile, nell'ambito del rispetto delle regolamentazioni europee.
 
 ## Q/A ❓
 **Q:** _Sono uno studente di dottorato che ha familiarità con i concetti base del ML/AI e conosco già le principali librerie Python per lo sviluppo di tali sistemi: essendo il seminario introduttivo a tali concetti, può essermi utile?_ <br/>
