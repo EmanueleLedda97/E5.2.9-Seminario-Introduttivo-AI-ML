@@ -23,6 +23,9 @@ Giorno 5 | 14/05/2024 | 9:00 - 13:00 | Aspetti Etici e Normativi | aula IAI_1A (
 
 L'ubicazione delle aulee è consultabile al [Seguente Link](https://web.unica.it/unica/it/fac_ingarch_s1_ss1_sss3.page)
 
+## Esame per l'attribuzione dei CFU
+Per tutti coloro che avessero la necessità di avere dei CFU convalidati per il proprio corso di dottorato sarà è previsto un esame finale per attestare le conoscenze apprese
+
 ## Argomenti trattati durante le varie giornate
 📌 **Giorno 1 - Introduzione a Intelligenza Artificiale e Machine Learning**  
 La prima giornata offrirà una panoramica sull'intelligenza artificiale, mostrando la sua evoluzione dagli anni 50 ad oggi, analizzando le caratteristiche che hanno permesso all'intelligenza artificiale di diventare lo strumento che conosciamo oggi.
