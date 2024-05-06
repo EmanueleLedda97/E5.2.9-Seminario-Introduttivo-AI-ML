@@ -1,5 +1,6 @@
 # Seminario Introduttivo AI/ML :robot:
 In questo repository verrà aggiunto progressivamente il materiale riguardante il seminario introduttivo sull'Intelligenza Artificiale e il Machine Learning svolto nell'ambito del progetto Cagliari Digital Lab 2024.
+Per iscriversi al seminario è necessario compilare il [modulo di iscrizione](https://docs.google.com/forms/d/1zcxiraNuRUCmhuuvkZpr6s2k2ykJ9Mhd5BMJDLGIEbs/edit).
 
 ## Descrizione del seminario :clipboard:
 Questo seminario fornirà una panoramica delle diverse tecnologie che fanno capo al settore di ricerca dell’Intelligenza Artificiale e dei loro ambiti applicativi, con un approfondimento sulle tecnologie del Machine Learning, orientata a mostrare, attraverso la discussione intorno ad alcuni concetti chiave dell’IA, come una innovazione di processo basata su tali tecnologie possa essere vantaggiosa per le attività di un'azienda o della PA.
@@ -20,7 +21,7 @@ Giorno 3| 10/05/2024 | 9:00 - 13:00 | Deep Learning  | aula IAB_TC (ex C) | Edif
 Giorno 4 | 13/05/2024 | 9:00 - 13:00 | Nuove Frontiere dell'AI  | aula IAI_1H (ex G) | Edificio I
 Giorno 5 | 14/05/2024 | 9:00 - 13:00 | Aspetti Etici e Normativi | aula IAI_1A (ex P) | Edificio I
 
-Planimetria delle aulee consultabile al [Seguente Link](https://web.unica.it/unica/it/fac_ingarch_s1_ss1_sss3.page)
+L'ubicazione delle aulee è consultabile al [Seguente Link](https://web.unica.it/unica/it/fac_ingarch_s1_ss1_sss3.page)
 
 ## Argomenti trattati durante le varie giornate
 📌 **Giorno 1 - Introduzione a Intelligenza Artificiale e Machine Learning**  
